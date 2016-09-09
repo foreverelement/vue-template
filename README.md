@@ -1,6 +1,6 @@
 # vue-model
 
-vue1.0.26
+vue1.0.26 感谢noop
 
 模板，包含webpack,jquery,bootstrap,vue-router,vue-resource,vuex
 

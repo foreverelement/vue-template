@@ -1,5 +1,5 @@
 {
-    "name": "vue-webpack-basic",
+    "name": "vue-model",
     "version": "1.0.0",
     "description": "vue^1.0.26 最基本webpack配置和所需依赖包,包含jquery,代理，热编译",
     "scripts": {

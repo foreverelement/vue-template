@@ -1,4 +1,4 @@
-# vue-model
+# vue-template
 
 vue1.0.26 感谢noop
 

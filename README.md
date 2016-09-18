@@ -40,12 +40,6 @@ npm install webpack-dev-server -g
 "webpack-dev-server": "^1.12.0"
 ```
 
-# 安装依赖包
-
-```
-    npm install
-```
-
 # 运行
 
 ```
@@ -58,8 +52,3 @@ npm install webpack-dev-server -g
     npm run pack
 ```
 
-打包需要使用webpack命令，所以请全局安装
-
-```
-    webpack npm install webpack -g
-```
